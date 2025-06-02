@@ -12,7 +12,7 @@ Pracujete s daty z fintechu. Definice **retence**, **churnu** nebo **segmentace*
 
 ### 2. Popiš datový model
 
-### 3. Kohortní a segmentační analýza
+### 3. Analýza chování klientů a segmentace
 - Proveď **retenci a churn analýzu klientů i produktů** (dle tvé business logiky).
 - Segmentuj podle **země, typu produktu, varianty, promo příznaku** i dalších charakteristik, které sám navrhneš.
 - Prezentuj klíčové rozdělení a insighty.
