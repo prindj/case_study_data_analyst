@@ -33,3 +33,6 @@ Pracujete s daty z fintechu. Definice **retence**, **churnu** nebo **segmentace*
 - Představ si, že výsledek prezentuješ businessu, ne jen technikovi.
 - Pokud narazíš na nejasnost v datech, napiš předpoklad a doporučení, jak bys podobnou situaci řešil v praxi.
 </details>
+
+## Odevzdání
+Odevzdejte v podobě Github repozitáře. Odkaz na repozitář prosím odešlete na e-mail jan.prindis@fidoo.com
