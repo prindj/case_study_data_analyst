@@ -21,7 +21,7 @@ Pracujete s daty z fintechu. Definice **retence**, **churnu** nebo **segmentace*
 - Navrhni hypotézu, která by mohla zvýšit retenci, a popiš, **jak bys ověřil, že skutečně funguje**.
 
 ### 5. Prezentace
-- Výstup prezentuj ve formě komentovaného notebooku nebo srozumitelného reportu.
+- Výstup prezentuj ve formě komentovaného python notebooku nebo srozumitelného reportu.
 - Zaměř se na **interpretaci a doporučení**
 
 ---
