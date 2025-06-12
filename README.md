@@ -8,12 +8,13 @@ Pracujete s daty z fintechu. Definice **retence**, **churnu** nebo **segmentace*
 ## Úkoly
 
 ### 1. Definuj a implementuj business logiku
-- Vysvětli **jak a proč definuješ retenci a churn** klienta i produktu.
+- Vysvětli **jak a proč definuješ retenci/churn/segmentaci** klienta i produktu.
 
 ### 2. Popiš datový model
+- Zaměř se na popis vstupních i tebou derivovaných dat
 
 ### 3. Analýza chování klientů a segmentace
-- Proveď **retenci a churn analýzu klientů i produktů** (dle tvé business logiky).
+- Proveď **analýzu retence/churn/segmentace klientů i produktů** (dle tebou nastavené business logiky).
 - Segmentuj podle **země, typu produktu, varianty, promo příznaku** i dalších charakteristik, které sám navrhneš.
 - Prezentuj klíčové rozdělení a insighty.
 
